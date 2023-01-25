@@ -1,6 +1,6 @@
 # P2P Chat Client
 
-GO version available here - https://github.com/suhasagg/p2pfunchat
+Go version available here - https://github.com/suhasagg/p2pfunchat
 
 This is a simple demonstration of a peer to peer chat client, written entirely in rust utilising the libp2p library.
 
